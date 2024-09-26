@@ -20,7 +20,7 @@
 - For Practice student can use the Virtualisation, Dual Boot, On premises Ubuntu 20, 22, 24 Version
 
 ## AWS Cloud Computing
-- Covers 15+ Hands on Serives with Theory & Practical here is the list of Services
+- Covers 15+ Hands on Services with Theory & Practical here is the list of Services
 
 ## Getting Started with AWS 
 
@@ -37,7 +37,7 @@
 - AWS S3 Bucket
 
 - After the Course of Completition:
-- We all assign a Mock Test Paper Student can give this test at home before giving the AWS Certification Exam.
+- We Assign a Mock Test Paper Student can give this test at home before giving the AWS Certification Exam.
 
 
 - All the Best !! Happy Learning
