@@ -42,7 +42,7 @@
 
 - All the Best !! Happy Learning
 - CloudAN Classes
-- Website: cloudanclasses.com
+- Website: https://cloudanclasses.com
 - Email: info@cloudanclasses.com
 - Mob: 94649-47360  98783-22094 (Maninder Singh)
 
