@@ -39,10 +39,12 @@
 - After the Course of Completition:
 - We Assign a Mock Test Paper Student can give this test at home before giving the AWS Certification Exam.
 
+ 
 
-- All the Best !! Happy Learning
-- CloudAN Classes
-- Website: https://cloudanclasses.com
-- Email: info@cloudanclasses.com
-- Mob: (94649-47360)  (98783-22094) (Maninder Singh)
+  - All the Best !! Happy Learning
+  - CloudAN Classes
+  - Website: https://www.cloudanclasses.com
+  - Email: info@cloudanclasses.com / cloudanclasses@gmail.com
+  - Mob: (98783-22094) (94649-47360) (Maninder Singh)
+  - LinkedIn: https://linkedin.com/in/maninder-singh-bb5578183
 
