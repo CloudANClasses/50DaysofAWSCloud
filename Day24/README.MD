@@ -13,7 +13,7 @@
   - Student work:
   - Write an Article & post it on LinkedIn the Linux Commands
 
-  [← Previous Day](../Day23/README.MD) | [Next Day →](../Day24/README.MD)
+  [← Previous Day](../Day23/README.MD) | [Next Day →](../Day25/README.MD)
  
 
   - All the Best !! Happy Learning
