@@ -44,7 +44,7 @@
   - Student work:
   - Write an Article & post it on LinkedIn the Linux Commands
 
- [Next Day →](../Day02/README.md)
+  - [Next Day →](../Day02/README.MD)
  
 
   - All the Best !! Happy Learning
